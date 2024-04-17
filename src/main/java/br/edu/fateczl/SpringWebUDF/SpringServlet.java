@@ -21,5 +21,4 @@ public class SpringServlet implements WebApplicationInitializer{
 		dispatcher.setLoadOnStartup(1);
 		dispatcher.addMapping("/");
 	}
-
 }
